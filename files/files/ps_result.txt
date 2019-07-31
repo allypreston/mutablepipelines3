@@ -1,0 +1,1 @@
+vagrant   2525  0.0  0.0  12944  1004 pts/0    S+   14:03   0:00 grep --color=auto nginx
